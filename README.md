@@ -5,6 +5,7 @@ This project explores the use of deep learning to predict brain tumors from MRIs
 
 ## Data
 Dataset: [link text](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
+
 Data Augmentation Techniques: Rotation, Flip, Translation, Scaling, Noise addition
 
 ## Methodology
@@ -39,6 +40,10 @@ prediction of the tumor.
 ## Visualizations
 ![Flowchart](images/Flowchart.png)
 
+
+
 ![VGG19 Loss](images/vgg19_loss.png)
+
+
 
 ![InceptionV3 Loss](images/inceptionv3_loss.png)
