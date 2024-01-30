@@ -38,7 +38,9 @@ further enhanced by getting more data and maybe also the use of three-dimension 
 prediction of the tumor.
 
 ## Visualizations
+
 ![Flowchart](images/Flowchart.png)
+
 
 
 
