@@ -39,13 +39,16 @@ prediction of the tumor.
 
 ## Visualizations
 
+Flowchart
 ![Flowchart](images/Flowchart.png)
 
 
 
 
+VGG19 Loss
 ![VGG19 Loss](images/vgg19_loss.png)
 
 
 
+InceptionV3 Loss
 ![InceptionV3 Loss](images/inceptionv3_loss.png)
