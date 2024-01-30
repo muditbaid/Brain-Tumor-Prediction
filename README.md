@@ -48,7 +48,7 @@ Flowchart
 
 VGG19 Loss
 
-![VGG19 Loss](images/vgg19_loss.png)
+![VGG19 Loss](images/vgg19loss.png)
 
 
 
